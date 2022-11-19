@@ -48,3 +48,5 @@
   </a> 
  
 </div>
+
+![vitoropereira’s GitHub image](https://crd.so/i/vitoropereira?dark&removeLink)

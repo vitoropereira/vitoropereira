@@ -15,6 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoropereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
+[![@vitoropereira's Holopin board](https://holopin.me/vitoropereira)](https://holopin.io/@vitoropereira)
 
 ### O que tenho utilizado.
 #### What I have used.

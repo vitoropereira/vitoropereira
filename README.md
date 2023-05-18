@@ -49,4 +49,4 @@
  
 </div>
 
-![vitoropereira’s GitHub image](https://crd.so/i/vitoropereira?dark&removeLink)
+![vitoropereira’s GitHub image](https://scastiel.dev/api/image/vitoropereira?dark&removeLink)

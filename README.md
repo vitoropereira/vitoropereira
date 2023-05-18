@@ -50,4 +50,4 @@
 </div>
 
 <a href="https://github.com/vitoropereira" target="_blank" rel="noopener noreferrer">
-  <img src="https://scastiel.dev/api/image/vitoropereira?dark&removeLink" alt="vitoropereira’s GitHub image" width="600" height="314" />
+  <img src="https://scastiel.dev/api/image/vitoropereira?dark" alt="vitoropereira’s GitHub image" width="600" height="314" />

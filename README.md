@@ -1,8 +1,6 @@
 ## Oi sou Vitor Pereira!👋
 #### Hi, I´m Vitor Pereira!👋
 
-<p style="font-size:20px">- 🔭 Atualmente trabalho na 4trip Agência (co-founder).</p>
-<p style="font-size:14px;">- 🔭 I’m currently working on 4trip Agência.</p>
 <p style="font-size:20px">- 🌱 Eu procuro estar sempre aprendendo. </p>
 <p style="font-size:14px">- 🌱 I try to be always learning.</p>
 <p style="font-size:20px">- 📫 Como me encontrar: vop1234@hotmail.com</p>

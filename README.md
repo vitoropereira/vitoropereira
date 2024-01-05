@@ -1,4 +1,4 @@
-![image](https://github.com/vitoropereira/vitoropereira/assets/47868559/c24956fd-4ff4-4b8a-996f-29e55a6b4750)## Oi sou Vitor Pereira!👋
+## Oi sou Vitor Pereira!👋
 #### Hi, I´m Vitor Pereira!👋
 
 <p style="font-size:20px">- 🌱 Eu procuro estar sempre aprendendo. </p>

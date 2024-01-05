@@ -1,4 +1,4 @@
-## Oi sou Vitor Pereira!👋
+![image](https://github.com/vitoropereira/vitoropereira/assets/47868559/c24956fd-4ff4-4b8a-996f-29e55a6b4750)## Oi sou Vitor Pereira!👋
 #### Hi, I´m Vitor Pereira!👋
 
 <p style="font-size:20px">- 🌱 Eu procuro estar sempre aprendendo. </p>
@@ -10,7 +10,7 @@
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoropereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoropereira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-rho-gray-57.vercel.app/api/top-langs/?username=vitoropereira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 

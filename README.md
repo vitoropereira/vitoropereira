@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vitoropereira&theme=dark&mode=weekly" />
+  <img  height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=vitoropereira&theme=dark&mode=weekly" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoropereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats-rho-gray-57.vercel.app/api/top-langs/?username=vitoropereira&layout=compact&langs_count=7&theme=dark"/>
 </div>

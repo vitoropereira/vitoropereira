@@ -7,7 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=vitoropereira&style=for-the-badge&label=Profile+Visits)
 
 <br />
- <img height="180em" src="https://github-profile-trophy.vercel.app/?username=vitoropereira&theme=onedark&no-frame=false&no-bg=true&margin-w=5" />
 <a href="#" alt="streaks">
 		<picture>
 			<source 

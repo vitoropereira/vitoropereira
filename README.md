@@ -26,7 +26,7 @@
 
 ## I'm a Developer, Enthusiast, Discoverer and Student!
 
-- 🔭 I’m currently open for working!
+- 🔭 I am working with [Bruno Okamoto](https://microsaas.com.br) and on [My Group Metrics](https://mygroupmetrics.com).
 - 🌱 Learning perfecting my skills anytime!
 - 💻 I’m looking to collaborate with other projects
 - 🥅 Goals: Build a micro-saas portfolio.

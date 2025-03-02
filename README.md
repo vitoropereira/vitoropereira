@@ -26,18 +26,27 @@
 
 ## I'm a Developer, Enthusiast, Discoverer and Student!
 
-- 🔭 I am working with [Bruno Okamoto](https://microsaas.com.br) and on [My Group Metrics](https://mygroupmetrics.com).
-- 🌱 Learning perfecting my skills anytime!
-- 💻 I’m looking to collaborate with other projects
-- 🥅 Goals: Build a micro-saas portfolio.
+- 💻 I’m working as a Full Stack Developer with [Bruno Okamoto](https://microsaas.com.br) and on [My Group Metrics](https://mygroupmetrics.com).
+- 🌱 Always learning and perfecting my skills!
+- 💻 Looking to collaborate on new projects.
+- 🥅 Goal: Build a portfolio of micro-SaaS projects.
+- 🚀 Passionate about building scalable solutions and always eager to learn!
+
 
 ### Short description
 
-With over 8 years of experience, I am a seasoned web programmer proficient in full-stack development, specializing in JavaScript/TypeScript and cutting-edge frameworks. 
+Full-Stack Developer | JavaScript & TypeScript Specialist | Automation, AI & Smart Integrations
 
-I excel in solving complex problems, from project conception to completion, with a keen ability to implement ideas effectively. My flexibility allows me to adopt the most efficient tools for each project, showcasing expertise in web and mobile front-end development, and a recent focus on enhancing back-end skills. 
+With over 10 years of experience, I am a full-stack developer passionate about technology, innovation, and solving complex challenges. My expertise lies in JavaScript, TypeScript, and modern frameworks like React, Next.js, React Native, and Node.js, with a strong focus on automation and AI-driven integrations.
 
-As a dedicated and passionate technology enthusiast, I continuously engage in learning, ensuring I stay at the forefront of the ever-evolving landscape of technology.
+💡 What sets me apart?
+
+End-to-End Development: From concept to deployment, I handle all stages of a project.
+Automation & AI: I build scalable solutions using N8N, OpenAI, OCR, data extraction, and intelligent API integrations.
+Flexibility & Adaptability: I always choose the best technologies to deliver efficient and scalable solutions.
+Continuous Learning: I stay ahead of industry trends to create impactful and high-quality digital experiences.
+💼 Professional Experience
+Currently, I work as a full-stack developer at My Group Metrics, automating processes and analyzing data for WhatsApp groups. I am also part of the Micro-SaaS community, developing innovative solutions for digital businesses. Additionally, I co-founded 4trip Agency and served as CTO at Leadsops.ai, leading technology projects and AI integrations.
 
 ### Languages and Tools:
 

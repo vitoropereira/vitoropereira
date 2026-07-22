@@ -6,17 +6,24 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch:
 
+# Least privilege by default: only the step that rewrites the README gets
+# write access to the repo contents.
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
+      # Third-party action pinned to an immutable commit SHA, not a mutable
+      # tag: this step runs with contents:write on the profile repo, so a
+      # repointed tag would mean arbitrary code with commit access.
       - name: Render latest videos into README
-        uses: DenverCoder1/github-readme-youtube-cards@1.8.0
+        uses: DenverCoder1/github-readme-youtube-cards@bea8b4bc2094973fe3c3a49d86076328588dc454 # 1.8.0
         with:
           channel_id: UC2w_5jrgpXWsM9apWqy4UmA
           comment_tag_name: YOUTUBE-CARDS

@@ -1,0 +1,33 @@
+name: Update YouTube cards
+
+on:
+  schedule:
+    # every day at 06:00 UTC (03:00 BRT)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render latest videos into README
+        uses: DenverCoder1/github-readme-youtube-cards@1.8.0
+        with:
+          channel_id: UC2w_5jrgpXWsM9apWqy4UmA
+          comment_tag_name: YOUTUBE-CARDS
+          lang: pt
+          max_videos: 4
+          card_width: 250
+          border_radius: 10
+          max_title_lines: 2
+          output_type: html
+          theme_context_dark: '{"background_color": "#0d1117", "title_color": "#e6edf3", "stats_color": "#8b949e"}'
+          theme_context_light: '{"background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a"}'
+          author_name: Vitor Pereira
+          author_email: vop1234@hotmail.com
+          commit_message: "docs(readme): update YouTube cards"

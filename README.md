@@ -92,10 +92,30 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[<img src="https://ytcards.demolab.com/?id=nD_oQdK7PxA&title=Conectei%20meu%20WhatsApp%20a%20um%20agente%20de%20IA%20%28Hermes%29%20SEM%20PROGRAMAR&lang=pt&timestamp=1784638679&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10" alt="Conectei meu WhatsApp a um agente de IA (Hermes) SEM PROGRAMAR" width="250">](https://www.youtube.com/watch?v=nD_oQdK7PxA)
-[<img src="https://ytcards.demolab.com/?id=tu26nntvse0&title=Claude%20Code%3A%203%20Recursos%20Pouco%20Conhecidos%20Que%20Aumentam%20Sua%20Produtividade&lang=pt&timestamp=1780326020&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10" alt="Claude Code: 3 Recursos Pouco Conhecidos Que Aumentam Sua Produtividade" width="250">](https://www.youtube.com/watch?v=tu26nntvse0)
-[<img src="https://ytcards.demolab.com/?id=VBZW1QOWxxo&title=Esse%20v%C3%ADdeo%20fez%2050%25%20do%20meu%20canal%E2%80%A6%20e%20eu%20estava%20fazendo%20errado&lang=pt&timestamp=1777906850&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10" alt="Esse vídeo fez 50% do meu canal… e eu estava fazendo errado" width="250">](https://www.youtube.com/watch?v=VBZW1QOWxxo)
-[<img src="https://ytcards.demolab.com/?id=mPcQ4dECBos&title=15%20dias%20travado%20no%20Codex%20GPT-4.5%20%2B%20OpenClaw.%20Um%20ajuste%20de%203%20linhas%20resolveu%20tudo.&lang=pt&timestamp=1777302087&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10" alt="15 dias travado no Codex GPT-4.5 + OpenClaw. Um ajuste de 3 linhas resolveu tudo." width="250">](https://www.youtube.com/watch?v=mPcQ4dECBos)
+<a href="https://www.youtube.com/watch?v=nD_oQdK7PxA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nD_oQdK7PxA&title=Conectei+meu+WhatsApp+a+um+agente+de+IA+%28Hermes%29+SEM+PROGRAMAR&lang=pt&timestamp=1784638679&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=nD_oQdK7PxA&title=Conectei+meu+WhatsApp+a+um+agente+de+IA+%28Hermes%29+SEM+PROGRAMAR&lang=pt&timestamp=1784638679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Conectei meu WhatsApp a um agente de IA (Hermes) SEM PROGRAMAR" title="Conectei meu WhatsApp a um agente de IA (Hermes) SEM PROGRAMAR">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=tu26nntvse0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tu26nntvse0&title=Claude+Code%3A+3+Recursos+Pouco+Conhecidos+Que+Aumentam+Sua+Produtividade&lang=pt&timestamp=1780326020&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=tu26nntvse0&title=Claude+Code%3A+3+Recursos+Pouco+Conhecidos+Que+Aumentam+Sua+Produtividade&lang=pt&timestamp=1780326020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Claude Code: 3 Recursos Pouco Conhecidos Que Aumentam Sua Produtividade" title="Claude Code: 3 Recursos Pouco Conhecidos Que Aumentam Sua Produtividade">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=VBZW1QOWxxo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBZW1QOWxxo&title=Esse+v%C3%ADdeo+fez+50%25+do+meu+canal%E2%80%A6+e+eu+estava+fazendo+errado&lang=pt&timestamp=1777906850&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=VBZW1QOWxxo&title=Esse+v%C3%ADdeo+fez+50%25+do+meu+canal%E2%80%A6+e+eu+estava+fazendo+errado&lang=pt&timestamp=1777906850&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Esse vídeo fez 50% do meu canal… e eu estava fazendo errado" title="Esse vídeo fez 50% do meu canal… e eu estava fazendo errado">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/mPcQ4dECBos">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mPcQ4dECBos&title=15+dias+travado+no+Codex+GPT-4.5+%2B+OpenClaw.+Um+ajuste+de+3+linhas+resolveu+tudo.&lang=pt&timestamp=1777302087&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=mPcQ4dECBos&title=15+dias+travado+no+Codex+GPT-4.5+%2B+OpenClaw.+Um+ajuste+de+3+linhas+resolveu+tudo.&lang=pt&timestamp=1777302087&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="15 dias travado no Codex GPT-4.5 + OpenClaw. Um ajuste de 3 linhas resolveu tudo." title="15 dias travado no Codex GPT-4.5 + OpenClaw. Um ajuste de 3 linhas resolveu tudo.">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
 
 <sub>🤖 This list updates itself daily via GitHub Actions — the README is an automation too.</sub>

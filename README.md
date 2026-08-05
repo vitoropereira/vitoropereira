@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/c9d4kzNLyeA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c9d4kzNLyeA&title=Mais+de+70+agentes+em+paralelo.+Ainda+faltam+4+dias+para+renovar+minha+sess%C3%A3o+semanal.+%F0%9F%A4%AF%F0%9F%9A%80&lang=pt&timestamp=1785885114&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=c9d4kzNLyeA&title=Mais+de+70+agentes+em+paralelo.+Ainda+faltam+4+dias+para+renovar+minha+sess%C3%A3o+semanal.+%F0%9F%A4%AF%F0%9F%9A%80&lang=pt&timestamp=1785885114&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Mais de 70 agentes em paralelo. Ainda faltam 4 dias para renovar minha sessão semanal. 🤯🚀" title="Mais de 70 agentes em paralelo. Ainda faltam 4 dias para renovar minha sessão semanal. 🤯🚀">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/hGYCilaIyNc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hGYCilaIyNc&title=Meu+agente+l%C3%AA+meu+whatsap+%23produtividade+%23chatgpt+%23agentedeia&lang=pt&timestamp=1785157409&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nD_oQdK7PxA&title=Conectei+meu+WhatsApp+a+um+agente+de+IA+%28Hermes%29+SEM+PROGRAMAR&lang=pt&timestamp=1784638679&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=nD_oQdK7PxA&title=Conectei+meu+WhatsApp+a+um+agente+de+IA+%28Hermes%29+SEM+PROGRAMAR&lang=pt&timestamp=1784638679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Conectei meu WhatsApp a um agente de IA (Hermes) SEM PROGRAMAR" title="Conectei meu WhatsApp a um agente de IA (Hermes) SEM PROGRAMAR">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=tu26nntvse0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tu26nntvse0&title=Claude+Code%3A+3+Recursos+Pouco+Conhecidos+Que+Aumentam+Sua+Produtividade&lang=pt&timestamp=1780326020&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=tu26nntvse0&title=Claude+Code%3A+3+Recursos+Pouco+Conhecidos+Que+Aumentam+Sua+Produtividade&lang=pt&timestamp=1780326020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Claude Code: 3 Recursos Pouco Conhecidos Que Aumentam Sua Produtividade" title="Claude Code: 3 Recursos Pouco Conhecidos Que Aumentam Sua Produtividade">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

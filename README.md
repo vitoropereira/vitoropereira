@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/1p4J2w9vlDI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1p4J2w9vlDI&title=VOC%C3%8A+AINDA+EST%C3%81+NO+N%C3%8DVEL%7C1+DE+IA+%E2%80%94+E%7CA+MAIORIA+DOS+EMPRES%C3%81RIOS+TAMB%C3%89M+%23agentedeia+%23chatgpt&lang=pt&timestamp=1789236014&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=1p4J2w9vlDI&title=VOC%C3%8A+AINDA+EST%C3%81+NO+N%C3%8DVEL%7C1+DE+IA+%E2%80%94+E%7CA+MAIORIA+DOS+EMPRES%C3%81RIOS+TAMB%C3%89M+%23agentedeia+%23chatgpt&lang=pt&timestamp=1789236014&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="VOCÊ AINDA ESTÁ NO NÍVEL|1 DE IA — E|A MAIORIA DOS EMPRESÁRIOS TAMBÉM #agentedeia #chatgpt" title="VOCÊ AINDA ESTÁ NO NÍVEL|1 DE IA — E|A MAIORIA DOS EMPRESÁRIOS TAMBÉM #agentedeia #chatgpt">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=DjAUEtUpdbM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DjAUEtUpdbM&title=Passei+3+dias+explicando+agentes+%E2%80%94+o+mercado+ainda+est%C3%A1+no+n%C3%ADvel+1&lang=pt&timestamp=1789081235&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hGYCilaIyNc&title=Meu+agente+l%C3%AA+meu+whatsap+%23produtividade+%23chatgpt+%23agentedeia&lang=pt&timestamp=1785157409&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=hGYCilaIyNc&title=Meu+agente+l%C3%AA+meu+whatsap+%23produtividade+%23chatgpt+%23agentedeia&lang=pt&timestamp=1785157409&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Meu agente lê meu whatsap #produtividade #chatgpt #agentedeia" title="Meu agente lê meu whatsap #produtividade #chatgpt #agentedeia">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/Yt-gT3-WqOA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yt-gT3-WqOA&title=conectei+meu+whatsapp+a+um+agente+de+ia+sem+programar+nada+1+%23agentedeia+%23chatgpt+%23aicoding&lang=pt&timestamp=1784824391&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=Yt-gT3-WqOA&title=conectei+meu+whatsapp+a+um+agente+de+ia+sem+programar+nada+1+%23agentedeia+%23chatgpt+%23aicoding&lang=pt&timestamp=1784824391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="conectei meu whatsapp a um agente de ia sem programar nada 1 #agentedeia #chatgpt #aicoding" title="conectei meu whatsapp a um agente de ia sem programar nada 1 #agentedeia #chatgpt #aicoding">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

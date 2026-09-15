@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/mQr1LMZjc_U">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mQr1LMZjc_U&title=O+WHATSAPP+CAIU%7CE+O+AGENTE%7CCONTINUOU+FUNCIONANDO&lang=pt&timestamp=1789390838&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=mQr1LMZjc_U&title=O+WHATSAPP+CAIU%7CE+O+AGENTE%7CCONTINUOU+FUNCIONANDO&lang=pt&timestamp=1789390838&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O WHATSAPP CAIU|E O AGENTE|CONTINUOU FUNCIONANDO" title="O WHATSAPP CAIU|E O AGENTE|CONTINUOU FUNCIONANDO">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/1p4J2w9vlDI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1p4J2w9vlDI&title=VOC%C3%8A+AINDA+EST%C3%81+NO+N%C3%8DVEL%7C1+DE+IA+%E2%80%94+E%7CA+MAIORIA+DOS+EMPRES%C3%81RIOS+TAMB%C3%89M+%23agentedeia+%23chatgpt&lang=pt&timestamp=1789236014&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c9d4kzNLyeA&title=Mais+de+70+agentes+em+paralelo.+Ainda+faltam+4+dias+para+renovar+minha+sess%C3%A3o+semanal.+%F0%9F%A4%AF%F0%9F%9A%80&lang=pt&timestamp=1785885114&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=c9d4kzNLyeA&title=Mais+de+70+agentes+em+paralelo.+Ainda+faltam+4+dias+para+renovar+minha+sess%C3%A3o+semanal.+%F0%9F%A4%AF%F0%9F%9A%80&lang=pt&timestamp=1785885114&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Mais de 70 agentes em paralelo. Ainda faltam 4 dias para renovar minha sessão semanal. 🤯🚀" title="Mais de 70 agentes em paralelo. Ainda faltam 4 dias para renovar minha sessão semanal. 🤯🚀">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/hGYCilaIyNc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hGYCilaIyNc&title=Meu+agente+l%C3%AA+meu+whatsap+%23produtividade+%23chatgpt+%23agentedeia&lang=pt&timestamp=1785157409&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=hGYCilaIyNc&title=Meu+agente+l%C3%AA+meu+whatsap+%23produtividade+%23chatgpt+%23agentedeia&lang=pt&timestamp=1785157409&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Meu agente lê meu whatsap #produtividade #chatgpt #agentedeia" title="Meu agente lê meu whatsap #produtividade #chatgpt #agentedeia">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=fKkfpY9xvz8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fKkfpY9xvz8&title=News+de+IA+da+semana%3A+Opus+5.5%2C+GPT-6+Sol+e+o+agente+do+Copilot+numa+caixa&lang=pt&timestamp=1790380827&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=fKkfpY9xvz8&title=News+de+IA+da+semana%3A+Opus+5.5%2C+GPT-6+Sol+e+o+agente+do+Copilot+numa+caixa&lang=pt&timestamp=1790380827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana: Opus 5.5, GPT-6 Sol e o agente do Copilot numa caixa" title="News de IA da semana: Opus 5.5, GPT-6 Sol e o agente do Copilot numa caixa">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/mQr1LMZjc_U">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mQr1LMZjc_U&title=O+WHATSAPP+CAIU%7CE+O+AGENTE%7CCONTINUOU+FUNCIONANDO&lang=pt&timestamp=1789390838&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DjAUEtUpdbM&title=Passei+3+dias+explicando+agentes+%E2%80%94+o+mercado+ainda+est%C3%A1+no+n%C3%ADvel+1&lang=pt&timestamp=1789081235&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=DjAUEtUpdbM&title=Passei+3+dias+explicando+agentes+%E2%80%94+o+mercado+ainda+est%C3%A1+no+n%C3%ADvel+1&lang=pt&timestamp=1789081235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Passei 3 dias explicando agentes — o mercado ainda está no nível 1" title="Passei 3 dias explicando agentes — o mercado ainda está no nível 1">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/c9d4kzNLyeA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c9d4kzNLyeA&title=Mais+de+70+agentes+em+paralelo.+Ainda+faltam+4+dias+para+renovar+minha+sess%C3%A3o+semanal.+%F0%9F%A4%AF%F0%9F%9A%80&lang=pt&timestamp=1785885114&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=c9d4kzNLyeA&title=Mais+de+70+agentes+em+paralelo.+Ainda+faltam+4+dias+para+renovar+minha+sess%C3%A3o+semanal.+%F0%9F%A4%AF%F0%9F%9A%80&lang=pt&timestamp=1785885114&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Mais de 70 agentes em paralelo. Ainda faltam 4 dias para renovar minha sessão semanal. 🤯🚀" title="Mais de 70 agentes em paralelo. Ainda faltam 4 dias para renovar minha sessão semanal. 🤯🚀">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

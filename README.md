@@ -92,28 +92,28 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=fKkfpY9xvz8">
+<a href="https://www.youtube.com/shorts/XBvqfN-bz5k">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fKkfpY9xvz8&title=News+de+IA+da+semana%3A+Opus+5.5%2C+GPT-6+Sol+e+o+agente+do+Copilot+numa+caixa&lang=pt&timestamp=1790380827&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=fKkfpY9xvz8&title=News+de+IA+da+semana%3A+Opus+5.5%2C+GPT-6+Sol+e+o+agente+do+Copilot+numa+caixa&lang=pt&timestamp=1790380827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana: Opus 5.5, GPT-6 Sol e o agente do Copilot numa caixa" title="News de IA da semana: Opus 5.5, GPT-6 Sol e o agente do Copilot numa caixa">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XBvqfN-bz5k&title=O+modelo+ficou+barato+%E2%80%94+o+diferencial+agora+%C3%A9+o+harness+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790550019&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=XBvqfN-bz5k&title=O+modelo+ficou+barato+%E2%80%94+o+diferencial+agora+%C3%A9+o+harness+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790550019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O modelo ficou barato — o diferencial agora é o harness #agentesdeia #chatgpt #python" title="O modelo ficou barato — o diferencial agora é o harness #agentesdeia #chatgpt #python">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/mQr1LMZjc_U">
+<a href="https://www.youtube.com/shorts/xbRLs2gjmxY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mQr1LMZjc_U&title=O+WHATSAPP+CAIU%7CE+O+AGENTE%7CCONTINUOU+FUNCIONANDO&lang=pt&timestamp=1789390838&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=mQr1LMZjc_U&title=O+WHATSAPP+CAIU%7CE+O+AGENTE%7CCONTINUOU+FUNCIONANDO&lang=pt&timestamp=1789390838&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O WHATSAPP CAIU|E O AGENTE|CONTINUOU FUNCIONANDO" title="O WHATSAPP CAIU|E O AGENTE|CONTINUOU FUNCIONANDO">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xbRLs2gjmxY&title=A+Meta+admitiu%3A+o+agente+Muse+foi+inspirado+no+OpenClaw+%23chatgpt+%23python+%23inteligenciaartificial&lang=pt&timestamp=1790539221&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=xbRLs2gjmxY&title=A+Meta+admitiu%3A+o+agente+Muse+foi+inspirado+no+OpenClaw+%23chatgpt+%23python+%23inteligenciaartificial&lang=pt&timestamp=1790539221&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="A Meta admitiu: o agente Muse foi inspirado no OpenClaw #chatgpt #python #inteligenciaartificial" title="A Meta admitiu: o agente Muse foi inspirado no OpenClaw #chatgpt #python #inteligenciaartificial">
   </picture>
 </a>
-<a href="https://www.youtube.com/shorts/1p4J2w9vlDI">
+<a href="https://www.youtube.com/shorts/W66SnsCnYas">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1p4J2w9vlDI&title=VOC%C3%8A+AINDA+EST%C3%81+NO+N%C3%8DVEL%7C1+DE+IA+%E2%80%94+E%7CA+MAIORIA+DOS+EMPRES%C3%81RIOS+TAMB%C3%89M+%23agentedeia+%23chatgpt&lang=pt&timestamp=1789236014&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=1p4J2w9vlDI&title=VOC%C3%8A+AINDA+EST%C3%81+NO+N%C3%8DVEL%7C1+DE+IA+%E2%80%94+E%7CA+MAIORIA+DOS+EMPRES%C3%81RIOS+TAMB%C3%89M+%23agentedeia+%23chatgpt&lang=pt&timestamp=1789236014&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="VOCÊ AINDA ESTÁ NO NÍVEL|1 DE IA — E|A MAIORIA DOS EMPRESÁRIOS TAMBÉM #agentedeia #chatgpt" title="VOCÊ AINDA ESTÁ NO NÍVEL|1 DE IA — E|A MAIORIA DOS EMPRESÁRIOS TAMBÉM #agentedeia #chatgpt">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W66SnsCnYas&title=O+agente+do+GitHub+Copilot+agora+roda+numa+caixa+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790524827&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=W66SnsCnYas&title=O+agente+do+GitHub+Copilot+agora+roda+numa+caixa+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790524827&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O agente do GitHub Copilot agora roda numa caixa #agentesdeia #chatgpt #python" title="O agente do GitHub Copilot agora roda numa caixa #agentesdeia #chatgpt #python">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=DjAUEtUpdbM">
+<a href="https://www.youtube.com/shorts/uSxaur3KqW4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DjAUEtUpdbM&title=Passei+3+dias+explicando+agentes+%E2%80%94+o+mercado+ainda+est%C3%A1+no+n%C3%ADvel+1&lang=pt&timestamp=1789081235&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=DjAUEtUpdbM&title=Passei+3+dias+explicando+agentes+%E2%80%94+o+mercado+ainda+est%C3%A1+no+n%C3%ADvel+1&lang=pt&timestamp=1789081235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Passei 3 dias explicando agentes — o mercado ainda está no nível 1" title="Passei 3 dias explicando agentes — o mercado ainda está no nível 1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uSxaur3KqW4&title=GPT-6+Sol+e+Luna%3A+a+OpenAI+lan%C3%A7ou+dois+modelos+e+cortou+o+pre%C3%A7o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790517620&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=uSxaur3KqW4&title=GPT-6+Sol+e+Luna%3A+a+OpenAI+lan%C3%A7ou+dois+modelos+e+cortou+o+pre%C3%A7o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790517620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="GPT-6 Sol e Luna: a OpenAI lançou dois modelos e cortou o preço #agentesdeia #chatgpt #python" title="GPT-6 Sol e Luna: a OpenAI lançou dois modelos e cortou o preço #agentesdeia #chatgpt #python">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

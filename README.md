@@ -92,28 +92,28 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=sa0TmczqCWM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sa0TmczqCWM&title=News+de+IA+da+semana%3A+Sonnet+5.5%2C+GPT-6.1+Sol%2C+mods+do+Claude+Code+e+os+dots+da+OpenAI&lang=pt&timestamp=1790985759&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=sa0TmczqCWM&title=News+de+IA+da+semana%3A+Sonnet+5.5%2C+GPT-6.1+Sol%2C+mods+do+Claude+Code+e+os+dots+da+OpenAI&lang=pt&timestamp=1790985759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana: Sonnet 5.5, GPT-6.1 Sol, mods do Claude Code e os dots da OpenAI" title="News de IA da semana: Sonnet 5.5, GPT-6.1 Sol, mods do Claude Code e os dots da OpenAI">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/pgGAZrQBOqw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pgGAZrQBOqw&title=Antes+de+apagar+o+c%C3%B3digo+velho%2C+veja+o+que+ele+protege+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790956836&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=pgGAZrQBOqw&title=Antes+de+apagar+o+c%C3%B3digo+velho%2C+veja+o+que+ele+protege+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790956836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Antes de apagar o código velho, veja o que ele protege #agentesdeia #chatgpt #python" title="Antes de apagar o código velho, veja o que ele protege #agentesdeia #chatgpt #python">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/EKXNZXSnUek">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EKXNZXSnUek&title=4+backups+e+nenhum+funcionou%3A+backup+s%C3%B3+existe+se+foi+testado+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790950282&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=EKXNZXSnUek&title=4+backups+e+nenhum+funcionou%3A+backup+s%C3%B3+existe+se+foi+testado+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790950282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="4 backups e nenhum funcionou: backup só existe se foi testado #agentesdeia #chatgpt #python" title="4 backups e nenhum funcionou: backup só existe se foi testado #agentesdeia #chatgpt #python">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=rARfiGcAWiY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rARfiGcAWiY&title=Meu+agente+de+IA+trabalhou+668+vezes+sem+eu+pedir+%28bastidores+no+WhatsApp%29&lang=pt&timestamp=1790766005&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=rARfiGcAWiY&title=Meu+agente+de+IA+trabalhou+668+vezes+sem+eu+pedir+%28bastidores+no+WhatsApp%29&lang=pt&timestamp=1790766005&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Meu agente de IA trabalhou 668 vezes sem eu pedir (bastidores no WhatsApp)" title="Meu agente de IA trabalhou 668 vezes sem eu pedir (bastidores no WhatsApp)">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/NSMDOca9N_c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NSMDOca9N_c&title=Agente+acelera+c%C3%B3digo.+N%C3%A3o+acelera+decis%C3%A3o+ruim&lang=pt&timestamp=1790697613&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=NSMDOca9N_c&title=Agente+acelera+c%C3%B3digo.+N%C3%A3o+acelera+decis%C3%A3o+ruim&lang=pt&timestamp=1790697613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Agente acelera código. Não acelera decisão ruim" title="Agente acelera código. Não acelera decisão ruim">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/Xq8RpcHu8yw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xq8RpcHu8yw&title=Banco+lento%3F+M%C3%A1quina+maior+nem+sempre+resolve+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790685825&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=Xq8RpcHu8yw&title=Banco+lento%3F+M%C3%A1quina+maior+nem+sempre+resolve+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790685825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Banco lento? Máquina maior nem sempre resolve #agentesdeia #chatgpt #python" title="Banco lento? Máquina maior nem sempre resolve #agentesdeia #chatgpt #python">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/XBvqfN-bz5k">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XBvqfN-bz5k&title=O+modelo+ficou+barato+%E2%80%94+o+diferencial+agora+%C3%A9+o+harness+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790550019&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=XBvqfN-bz5k&title=O+modelo+ficou+barato+%E2%80%94+o+diferencial+agora+%C3%A9+o+harness+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790550019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O modelo ficou barato — o diferencial agora é o harness #agentesdeia #chatgpt #python" title="O modelo ficou barato — o diferencial agora é o harness #agentesdeia #chatgpt #python">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

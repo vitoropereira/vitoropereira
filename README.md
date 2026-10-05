@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/et5h8jpMXUw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="OpenAI cancelou o GPT-6.1 Astra: ele agia sem pedir permissão #agentesdeia #chatgpt #python" title="OpenAI cancelou o GPT-6.1 Astra: ele agia sem pedir permissão #agentesdeia #chatgpt #python">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/ZuuKUqjoAhI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZuuKUqjoAhI&title=Conectar+o+agente+ao+WhatsApp+%C3%A9+f%C3%A1cil.+Limitar+o+estrago%2C+n%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791043213&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pgGAZrQBOqw&title=Antes+de+apagar+o+c%C3%B3digo+velho%2C+veja+o+que+ele+protege+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790956836&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=pgGAZrQBOqw&title=Antes+de+apagar+o+c%C3%B3digo+velho%2C+veja+o+que+ele+protege+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790956836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Antes de apagar o código velho, veja o que ele protege #agentesdeia #chatgpt #python" title="Antes de apagar o código velho, veja o que ele protege #agentesdeia #chatgpt #python">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/EKXNZXSnUek">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EKXNZXSnUek&title=4+backups+e+nenhum+funcionou%3A+backup+s%C3%B3+existe+se+foi+testado+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790950282&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=EKXNZXSnUek&title=4+backups+e+nenhum+funcionou%3A+backup+s%C3%B3+existe+se+foi+testado+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790950282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="4 backups e nenhum funcionou: backup só existe se foi testado #agentesdeia #chatgpt #python" title="4 backups e nenhum funcionou: backup só existe se foi testado #agentesdeia #chatgpt #python">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

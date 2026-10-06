@@ -92,6 +92,18 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/AICft3oGNKQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Modelo é o motor, agente é a carcaça: Ferrari com motor Ferrari" title="Modelo é o motor, agente é a carcaça: Ferrari com motor Ferrari">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=xIYXf9-lqRc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xIYXf9-lqRc&title=Pedi+pro+Claude+projetar+a+elei%C3%A7%C3%A3o+com+36%25+apurado.+Errou+por+menos+de+2+pontos&lang=pt&timestamp=1791226805&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=xIYXf9-lqRc&title=Pedi+pro+Claude+projetar+a+elei%C3%A7%C3%A3o+com+36%25+apurado.+Errou+por+menos+de+2+pontos&lang=pt&timestamp=1791226805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Pedi pro Claude projetar a eleição com 36% apurado. Errou por menos de 2 pontos" title="Pedi pro Claude projetar a eleição com 36% apurado. Errou por menos de 2 pontos">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/et5h8jpMXUw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -102,18 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZuuKUqjoAhI&title=Conectar+o+agente+ao+WhatsApp+%C3%A9+f%C3%A1cil.+Limitar+o+estrago%2C+n%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791043213&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=ZuuKUqjoAhI&title=Conectar+o+agente+ao+WhatsApp+%C3%A9+f%C3%A1cil.+Limitar+o+estrago%2C+n%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791043213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Conectar o agente ao WhatsApp é fácil. Limitar o estrago, não #agentesdeia #chatgpt #python" title="Conectar o agente ao WhatsApp é fácil. Limitar o estrago, não #agentesdeia #chatgpt #python">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=sa0TmczqCWM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sa0TmczqCWM&title=News+de+IA+da+semana%3A+Sonnet+5.5%2C+GPT-6.1+Sol%2C+mods+do+Claude+Code+e+os+dots+da+OpenAI&lang=pt&timestamp=1790985759&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=sa0TmczqCWM&title=News+de+IA+da+semana%3A+Sonnet+5.5%2C+GPT-6.1+Sol%2C+mods+do+Claude+Code+e+os+dots+da+OpenAI&lang=pt&timestamp=1790985759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana: Sonnet 5.5, GPT-6.1 Sol, mods do Claude Code e os dots da OpenAI" title="News de IA da semana: Sonnet 5.5, GPT-6.1 Sol, mods do Claude Code e os dots da OpenAI">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/pgGAZrQBOqw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pgGAZrQBOqw&title=Antes+de+apagar+o+c%C3%B3digo+velho%2C+veja+o+que+ele+protege+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790956836&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=pgGAZrQBOqw&title=Antes+de+apagar+o+c%C3%B3digo+velho%2C+veja+o+que+ele+protege+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1790956836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Antes de apagar o código velho, veja o que ele protege #agentesdeia #chatgpt #python" title="Antes de apagar o código velho, veja o que ele protege #agentesdeia #chatgpt #python">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

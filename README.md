@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/w6GWNlX5NJk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Claude Sonnet 5.5: 30% mais rápido e o mesmo preço do Sonnet 5" title="Claude Sonnet 5.5: 30% mais rápido e o mesmo preço do Sonnet 5">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/AICft3oGNKQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="OpenAI cancelou o GPT-6.1 Astra: ele agia sem pedir permissão #agentesdeia #chatgpt #python" title="OpenAI cancelou o GPT-6.1 Astra: ele agia sem pedir permissão #agentesdeia #chatgpt #python">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/ZuuKUqjoAhI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZuuKUqjoAhI&title=Conectar+o+agente+ao+WhatsApp+%C3%A9+f%C3%A1cil.+Limitar+o+estrago%2C+n%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791043213&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=ZuuKUqjoAhI&title=Conectar+o+agente+ao+WhatsApp+%C3%A9+f%C3%A1cil.+Limitar+o+estrago%2C+n%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791043213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Conectar o agente ao WhatsApp é fácil. Limitar o estrago, não #agentesdeia #chatgpt #python" title="Conectar o agente ao WhatsApp é fácil. Limitar o estrago, não #agentesdeia #chatgpt #python">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

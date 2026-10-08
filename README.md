@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/Xs8lOQnNNsc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xs8lOQnNNsc&title=O+pre%C3%A7o+empatou%3A+Sonnet+5.5+x+GPT-6.1+Sol.+Agora+a+diferen%C3%A7a+%C3%A9+quem+decide&lang=pt&timestamp=1791460824&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=Xs8lOQnNNsc&title=O+pre%C3%A7o+empatou%3A+Sonnet+5.5+x+GPT-6.1+Sol.+Agora+a+diferen%C3%A7a+%C3%A9+quem+decide&lang=pt&timestamp=1791460824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O preço empatou: Sonnet 5.5 x GPT-6.1 Sol. Agora a diferença é quem decide" title="O preço empatou: Sonnet 5.5 x GPT-6.1 Sol. Agora a diferença é quem decide">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/w6GWNlX5NJk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xIYXf9-lqRc&title=Pedi+pro+Claude+projetar+a+elei%C3%A7%C3%A3o+com+36%25+apurado.+Errou+por+menos+de+2+pontos&lang=pt&timestamp=1791226805&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=xIYXf9-lqRc&title=Pedi+pro+Claude+projetar+a+elei%C3%A7%C3%A3o+com+36%25+apurado.+Errou+por+menos+de+2+pontos&lang=pt&timestamp=1791226805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Pedi pro Claude projetar a eleição com 36% apurado. Errou por menos de 2 pontos" title="Pedi pro Claude projetar a eleição com 36% apurado. Errou por menos de 2 pontos">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/et5h8jpMXUw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=et5h8jpMXUw&title=OpenAI+cancelou+o+GPT-6.1+Astra%3A+ele+agia+sem+pedir+permiss%C3%A3o+%23agentesdeia+%23chatgpt+%23python&lang=pt&timestamp=1791201616&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="OpenAI cancelou o GPT-6.1 Astra: ele agia sem pedir permissão #agentesdeia #chatgpt #python" title="OpenAI cancelou o GPT-6.1 Astra: ele agia sem pedir permissão #agentesdeia #chatgpt #python">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

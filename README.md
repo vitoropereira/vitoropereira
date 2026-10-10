@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=29Faab-1WoM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana #03: Claude Haiku 5.5, sandbox no Copilot e chave vazada no GitHub" title="News de IA da semana #03: Claude Haiku 5.5, sandbox no Copilot e chave vazada no GitHub">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/Xs8lOQnNNsc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xs8lOQnNNsc&title=O+pre%C3%A7o+empatou%3A+Sonnet+5.5+x+GPT-6.1+Sol.+Agora+a+diferen%C3%A7a+%C3%A9+quem+decide&lang=pt&timestamp=1791460824&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Modelo é o motor, agente é a carcaça: Ferrari com motor Ferrari" title="Modelo é o motor, agente é a carcaça: Ferrari com motor Ferrari">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=xIYXf9-lqRc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xIYXf9-lqRc&title=Pedi+pro+Claude+projetar+a+elei%C3%A7%C3%A3o+com+36%25+apurado.+Errou+por+menos+de+2+pontos&lang=pt&timestamp=1791226805&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=xIYXf9-lqRc&title=Pedi+pro+Claude+projetar+a+elei%C3%A7%C3%A3o+com+36%25+apurado.+Errou+por+menos+de+2+pontos&lang=pt&timestamp=1791226805&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Pedi pro Claude projetar a eleição com 36% apurado. Errou por menos de 2 pontos" title="Pedi pro Claude projetar a eleição com 36% apurado. Errou por menos de 2 pontos">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

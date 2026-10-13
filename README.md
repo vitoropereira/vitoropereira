@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/jlPMlb-iK1U">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jlPMlb-iK1U&title=Estrela+no+GitHub+n%C3%A3o+quer+dizer+que+o+c%C3%B3digo+%C3%A9+seguro&lang=pt&timestamp=1791840870&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=jlPMlb-iK1U&title=Estrela+no+GitHub+n%C3%A3o+quer+dizer+que+o+c%C3%B3digo+%C3%A9+seguro&lang=pt&timestamp=1791840870&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Estrela no GitHub não quer dizer que o código é seguro" title="Estrela no GitHub não quer dizer que o código é seguro">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=29Faab-1WoM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Claude Sonnet 5.5: 30% mais rápido e o mesmo preço do Sonnet 5" title="Claude Sonnet 5.5: 30% mais rápido e o mesmo preço do Sonnet 5">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/AICft3oGNKQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=AICft3oGNKQ&title=Modelo+%C3%A9+o+motor%2C+agente+%C3%A9+a+carca%C3%A7a%3A+Ferrari+com+motor+Ferrari&lang=pt&timestamp=1791288019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Modelo é o motor, agente é a carcaça: Ferrari com motor Ferrari" title="Modelo é o motor, agente é a carcaça: Ferrari com motor Ferrari">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

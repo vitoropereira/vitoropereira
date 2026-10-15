@@ -92,6 +92,18 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=GPCe1rQwwmc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GPCe1rQwwmc&title=Fiz+a+mesma+pergunta+ao+modelo+mais+caro+e+ao+mais+barato.+O+barato+ganhou&lang=pt&timestamp=1791982838&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=GPCe1rQwwmc&title=Fiz+a+mesma+pergunta+ao+modelo+mais+caro+e+ao+mais+barato.+O+barato+ganhou&lang=pt&timestamp=1791982838&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Fiz a mesma pergunta ao modelo mais caro e ao mais barato. O barato ganhou" title="Fiz a mesma pergunta ao modelo mais caro e ao mais barato. O barato ganhou">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/npG1VknrexI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=npG1VknrexI&title=J%C3%A1+vi+v%C3%ADdeo+ensinando+a+baixar+chave+vazada+no+GitHub.+%23agentesdeia+%23inteligenciaformativa&lang=pt&timestamp=1791975698&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=npG1VknrexI&title=J%C3%A1+vi+v%C3%ADdeo+ensinando+a+baixar+chave+vazada+no+GitHub.+%23agentesdeia+%23inteligenciaformativa&lang=pt&timestamp=1791975698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Já vi vídeo ensinando a baixar chave vazada no GitHub. #agentesdeia #inteligenciaformativa" title="Já vi vídeo ensinando a baixar chave vazada no GitHub. #agentesdeia #inteligenciaformativa">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/jlPMlb-iK1U">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jlPMlb-iK1U&title=Estrela+no+GitHub+n%C3%A3o+quer+dizer+que+o+c%C3%B3digo+%C3%A9+seguro&lang=pt&timestamp=1791840870&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -102,18 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana #03: Claude Haiku 5.5, sandbox no Copilot e chave vazada no GitHub" title="News de IA da semana #03: Claude Haiku 5.5, sandbox no Copilot e chave vazada no GitHub">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/Xs8lOQnNNsc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xs8lOQnNNsc&title=O+pre%C3%A7o+empatou%3A+Sonnet+5.5+x+GPT-6.1+Sol.+Agora+a+diferen%C3%A7a+%C3%A9+quem+decide&lang=pt&timestamp=1791460824&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=Xs8lOQnNNsc&title=O+pre%C3%A7o+empatou%3A+Sonnet+5.5+x+GPT-6.1+Sol.+Agora+a+diferen%C3%A7a+%C3%A9+quem+decide&lang=pt&timestamp=1791460824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="O preço empatou: Sonnet 5.5 x GPT-6.1 Sol. Agora a diferença é quem decide" title="O preço empatou: Sonnet 5.5 x GPT-6.1 Sol. Agora a diferença é quem decide">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/w6GWNlX5NJk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=w6GWNlX5NJk&title=Claude+Sonnet+5.5%3A+30%25+mais+r%C3%A1pido+e+o+mesmo+pre%C3%A7o+do+Sonnet+5&lang=pt&timestamp=1791374421&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Claude Sonnet 5.5: 30% mais rápido e o mesmo preço do Sonnet 5" title="Claude Sonnet 5.5: 30% mais rápido e o mesmo preço do Sonnet 5">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->

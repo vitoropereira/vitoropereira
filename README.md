@@ -92,6 +92,12 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
 ### ▶️ Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=xRef_9xVmq0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xRef_9xVmq0&title=News+de+IA+da+semana+%2304%3A+Supabase+sem+Docker%2C+o+daemon+do+Codex+e+o+Gemini+4+Argon&lang=pt&timestamp=1792198255&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
+    <img src="https://ytcards.demolab.com/?id=xRef_9xVmq0&title=News+de+IA+da+semana+%2304%3A+Supabase+sem+Docker%2C+o+daemon+do+Codex+e+o+Gemini+4+Argon&lang=pt&timestamp=1792198255&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana #04: Supabase sem Docker, o daemon do Codex e o Gemini 4 Argon" title="News de IA da semana #04: Supabase sem Docker, o daemon do Codex e o Gemini 4 Argon">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=GPCe1rQwwmc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GPCe1rQwwmc&title=Fiz+a+mesma+pergunta+ao+modelo+mais+caro+e+ao+mais+barato.+O+barato+ganhou&lang=pt&timestamp=1791982838&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
@@ -108,12 +114,6 @@ I run a **YouTube channel (in 🇧🇷 Portuguese)** where I build AI agents, au
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jlPMlb-iK1U&title=Estrela+no+GitHub+n%C3%A3o+quer+dizer+que+o+c%C3%B3digo+%C3%A9+seguro&lang=pt&timestamp=1791840870&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
     <img src="https://ytcards.demolab.com/?id=jlPMlb-iK1U&title=Estrela+no+GitHub+n%C3%A3o+quer+dizer+que+o+c%C3%B3digo+%C3%A9+seguro&lang=pt&timestamp=1791840870&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="Estrela no GitHub não quer dizer que o código é seguro" title="Estrela no GitHub não quer dizer que o código é seguro">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=29Faab-1WoM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%230d1117&title_color=%23e6edf3&stats_color=%238b949e&max_title_lines=2&width=250&border_radius=10">
-    <img src="https://ytcards.demolab.com/?id=29Faab-1WoM&title=News+de+IA+da+semana+%2303%3A+Claude+Haiku+5.5%2C+sandbox+no+Copilot+e+chave+vazada+no+GitHub&lang=pt&timestamp=1791586808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=10" alt="News de IA da semana #03: Claude Haiku 5.5, sandbox no Copilot e chave vazada no GitHub" title="News de IA da semana #03: Claude Haiku 5.5, sandbox no Copilot e chave vazada no GitHub">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
